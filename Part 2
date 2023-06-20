@@ -1,0 +1,12 @@
+- Steps programs run:
+ 1. Create a new instance of class BeeColony and call method grow() and reproduce() from instance
+ 2. Create a new instance of class FPTUniversity and call method enroll() and educate() from instance
+ 3. Create two new instance of class BeeColony and FPTUniversity and call method createWorker() from instance
+- Answer questions:
+1. Static heap, the class objects and static variables are stored. Stack, the method calls, local variables
+2. Organization class has an abstract method.
+3. Because Role is an interface.
+4. Dynamic polymorphism
+5.
+Interface: a set of classes that are not related to each other. 
+Abstract class: a set of interrelated classes.     , - 
